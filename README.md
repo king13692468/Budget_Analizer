@@ -65,7 +65,7 @@ Stores monthly budget limit and month
 
 ### <strong>➤ Add Transaction</strong>
 
-```http
+```http```
 POST /api/transaction
 Request Body:
 json
