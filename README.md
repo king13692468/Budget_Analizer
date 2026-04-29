@@ -98,13 +98,13 @@ spring.jpa.show-sql=true
 <strong>▶️ HOW TO RUN</strong>
 Clone the repository
 
-Open in IntelliJ IDEA
+-Open in IntelliJ IDEA
 
-Create MySQL database: expense_tracker
+-Create MySQL database: expense_tracker
 
-Update application.properties with your credentials
+-Update application.properties with your credentials
 
-Run ExpenseTrackerApplication.java
+-Run ExpenseTrackerApplication.java
 
 
 <strong>🧪 TESTING</strong>
@@ -126,7 +126,7 @@ Use Postman to test the APIs:
 
 
 <strong>👨‍💻 AUTHOR</strong>
-<p><strong>Your Name</strong></p> ```
+<p><strong>Md Shadab Mobin</strong></p> ```
 
 
 
