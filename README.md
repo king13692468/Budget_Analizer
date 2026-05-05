@@ -1,3 +1,5 @@
+<img width="1920" height="1020" alt="Screenshot 2026-04-29 134028" src="https://github.com/user-attachments/assets/329cf9c7-88f3-49ec-9717-983af403e139" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-21 112952" src="https://github.com/user-attachments/assets/b91a237d-3dbe-4d77-ba11-bdc26ae96665" />
 # <p align="center">📊 <strong>SMART BUDGET ANALYZER API</strong> 📊</p>
 
 <p align="center">
