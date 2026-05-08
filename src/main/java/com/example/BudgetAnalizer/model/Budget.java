@@ -3,30 +3,35 @@ package com.example.BudgetAnalizer.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "budget")
 public class Budget {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private double limitAmount;   // ✅ matches DB now
+    private String month;  // Format: YYYY-MM
+    private String category;  // null means overall budget
+    private double limitAmount;
 
-    private String month;
+    // Constructors
+    public Budget() {}
 
-    public double getLimitAmount() {
-        return limitAmount;
-    }
-
-    public void setLimitAmount(double limitAmount) {
+    public Budget(String month, String category, double limitAmount) {
+        this.month = month;
+        this.category = category;
         this.limitAmount = limitAmount;
     }
 
-    public String getMonth() {
-        return month;
-    }
+    // Getters and Setters
+    public Long getId() { return id; }
+    public void setId(Long id) { this.id = id; }
 
-    public void setMonth(String month) {
-        this.month = month;
-    }
+    public String getMonth() { return month; }
+    public void setMonth(String month) { this.month = month; }
+
+    public String getCategory() { return category; }
+    public void setCategory(String category) { this.category = category; }
+
+    public double getLimitAmount() { return limitAmount; }
+    public void setLimitAmount(double limitAmount) { this.limitAmount = limitAmount; }
 }
