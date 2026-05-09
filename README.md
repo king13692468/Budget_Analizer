@@ -93,15 +93,18 @@ Stores monthly budget limit and month
 
 ### <strong>➤ Add Transaction</strong>
 
-```http```
-POST /api/transaction
-Request Body:
-json
+### 1. Add Transaction
+
+**Endpoint:** `POST /api/transaction`
+
+**Request Body:**
+```json
 {
-  "amount": 500,
+  "description": "Weekly grocery",
+  "amount": 850.50,
   "type": "EXPENSE",
   "category": "Food",
-  "date": "2026-04-26"
+  "date": "2026-05-08"
 }
 <strong>➤ Get All Transactions</strong>
 GET /api/transactions
