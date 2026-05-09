@@ -106,9 +106,16 @@ Stores monthly budget limit and month
   "category": "Food",
   "date": "2026-05-08"
 }
-<strong>➤ Get All Transactions</strong>
-GET /api/transactions
-<strong>➤ Set Budget</strong>
+### 1. Get All Transactions
+`GET /api/transactions`
+  {
+    "id": 1,
+    "description": "Weekly grocery",
+    "amount": 850.50,
+    "type": "EXPENSE",
+    "category": "Food",
+    "date": "2026-05-08"
+  }
 POST /api/budget?amount=2000
 <strong>➤ Check Budget Status</strong>
 GET /api/budget-status
