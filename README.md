@@ -16,11 +16,11 @@
 <br>
 
 ## <strong>🧱 PROJECT STRUCTURE</strong>
-com.example.BudgetAnalyzer
-├── controller
-├── service
-├── repository
-└── model
+- `com.example.BudgetAnalyzer/`
+  - `controller/` - TransactionController.java
+  - `service/` - TransactionService.java
+  - `repository/` - TransactionRepository.java, BudgetRepository.java
+  - `model/` - Transaction.java, Budget.java, TransactionType.java
 
 
 ## 📸 Screenshots
