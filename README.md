@@ -25,13 +25,13 @@ com.example.BudgetAnalyzer
 ## Screenshots
 
 ### Application Running
-![Terminal](screenshots/01-terminal-running.png)
+![Terminal](screenshot/01-terminal-running.png)
 
 ### Database Tables
-![Database](screenshots/02-database-tables.png)
+![Database](screenshot/02-database-tables.png)
 
 ### Add Transaction
-![Add Transaction](screenshots/03-add-transaction.png)
+![Add Transaction](screenshot/03-add-transaction.png)
 <br>
 
 ## <strong>⚙️ TECH STACK</strong>
