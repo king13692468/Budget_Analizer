@@ -28,27 +28,28 @@ com.example.BudgetAnalyzer
 Click on any link to view the screenshot:
 
 ### Application & Database
-- [Application Running](screenshots/01-terminal-running.png)
-- [Database Tables](screenshots/02-database-tables.png)
+- [Application Running](screenshot/01-terminal-running.png)
+- [Database Tables](screenshot/02-database-tables.png)
 
 ### Transaction CRUD Operations
-- [Add Transaction](screenshots/03-add-transaction.png)
-- [Get All Transactions](screenshots/04-get-all-transactions.png)
-- [Update Transaction](screenshots/05-update-transaction.png)
-- [Delete Transaction](screenshots/06-delete-transaction.png)
+- [Add Transaction](screenshot/03-add-transaction.png)
+- [Get All Transactions](screenshot/04-get-all-transactions.png)
+- [Update Transaction](screenshot/05-update-transaction.png)
+- [Delete Transaction](screenshot/06-delete-transaction.png)
 
 ### Budget Management
-- [Set Overall Budget](screenshots/07-set-budget.png)
-- [Budget Status - Within Limit](screenshots/8-budget-status-normal.png)
-- [Budget Exceeded Alert](screenshots/9-budget-exceeded.png)
+- [Set Overall Budget](screenshot/07-set-budget.png)
+- [Budget Status - Within Limit](screenshot/8-budget-status-normal.png)
+- [Budget Exceeded Alert](screenshot/9-budget-exceeded.png)
 
 ### Analytics & Reports
-- [Monthly Summary](screenshots/10-monthly-summary.png)
-- [Top Spending Categories](screenshots/11-top-categories.png)
+- [Monthly Summary](screenshot/10-monthly-summary.png)
+- [Top Spending Categories](screenshot/11-top-categories.png)
 
 ### Filtering Features
-- [Transactions by Category (Food)](screenshots/12-category-filter-food.png)
-- [Transactions by Date Range](screenshots/13-date-range-filter.png)
+- [Transactions by Date Range](screenshot/12-date-range-filter.png)
+- [Transactions by Category (Food)](screenshot/13-category-filter-food.png)
+
 
 
 <br>
