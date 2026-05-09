@@ -106,8 +106,11 @@ Stores monthly budget limit and month
   "category": "Food",
   "date": "2026-05-08"
 }
+```
 ### 1. Get All Transactions
 `GET /api/transactions`
+```json
+[
   {
     "id": 1,
     "description": "Weekly grocery",
@@ -116,6 +119,8 @@ Stores monthly budget limit and month
     "category": "Food",
     "date": "2026-05-08"
   }
+]
+```
 POST /api/budget?amount=2000
 <strong>➤ Check Budget Status</strong>
 GET /api/budget-status
