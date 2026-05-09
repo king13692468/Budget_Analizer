@@ -22,16 +22,35 @@ com.example.BudgetAnalyzer
 ├── repository
 └── model
 
-## Screenshots
 
-### Application Running
-![Terminal](screenshot/01-terminal-running.png)
+## 📸 Screenshots
 
-### Database Tables
-![Database](screenshot/02-database-tables.png)
+Click on any link to view the screenshot:
 
-### Add Transaction
-![Add Transaction](screenshot/03-add-transaction.png)
+### Application & Database
+- [Application Running](screenshots/01-terminal-running.png)
+- [Database Tables](screenshots/02-database-tables.png)
+
+### Transaction CRUD Operations
+- [Add Transaction](screenshots/03-add-transaction.png)
+- [Get All Transactions](screenshots/04-get-all-transactions.png)
+- [Update Transaction](screenshots/05-update-transaction.png)
+- [Delete Transaction](screenshots/06-delete-transaction.png)
+
+### Budget Management
+- [Set Overall Budget](screenshots/07-set-budget.png)
+- [Budget Status - Within Limit](screenshots/8-budget-status-normal.png)
+- [Budget Exceeded Alert](screenshots/9-budget-exceeded.png)
+
+### Analytics & Reports
+- [Monthly Summary](screenshots/10-monthly-summary.png)
+- [Top Spending Categories](screenshots/11-top-categories.png)
+
+### Filtering Features
+- [Transactions by Category (Food)](screenshots/12-category-filter-food.png)
+- [Transactions by Date Range](screenshots/13-date-range-filter.png)
+
+
 <br>
 
 ## <strong>⚙️ TECH STACK</strong>
